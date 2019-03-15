@@ -40,6 +40,13 @@
 - package controller: 版本控制 go mod
 - Makefile: 项目编译程序
 - 在线访问网址：使用 github pages
+- Badge 徽章
+    - travisCI
+    - docker build
+    - go doc
+    - go report
+    - codecov
+
 
 ## 4。待续
 

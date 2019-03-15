@@ -35,7 +35,8 @@
 ## 3。项目需要包含
 
 - travis.yaml : travis ci 持续集成
-- Dockerfile : 构建镜像 + DaoCloud
+- Dockerfile : 构建镜像 + DockerHub OR DaoCloud
+- Docker-Compose: 启动镜像流程 
 - .gitignore: 项目忽略上传的文件
 - package controller: 版本控制 go mod
 - Makefile: 项目编译程序
